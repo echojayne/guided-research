@@ -1,0 +1,4 @@
+interface:
+  display_name: "引导式调研"
+  short_description: "通过关键追问收敛调研问题，按目标检索并生成飞书调研报告"
+  default_prompt: "使用 $guided-research，围绕我提供的主题逐步明确目标、检索并分析资料，最终生成符合模板的飞书调研报告。"
